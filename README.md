@@ -51,8 +51,3 @@ node server.js
 ```
 
 Then open: **[http://localhost:8080/posts](http://localhost:8080/posts)**
-
----
-
-Would you like me to make it sound a bit **more professional (for recruiters)** or **more casual (for student portfolio / learning project)**?
-I can tailor the tone accordingly.
