@@ -1,16 +1,8 @@
-Here’s a clean and engaging **repository description** you can use for your mini Quora project on GitHub 👇
-
----
-
 ### 📝 **Repository Description**
 
 > A mini Quora-like web application built using **Node.js**, **Express**, and **EJS**.
 > Users can create, view, edit, and delete posts — mimicking the core CRUD functionalities of platforms like Quora.
 > Designed to practice server-side rendering, RESTful routing, and form handling with `method-override`.
-
----
-
-### 💡 **Extended README-style Overview (optional, for repo body)**
 
 #### 🚀 Features
 
