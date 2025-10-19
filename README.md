@@ -4,6 +4,9 @@
 > Users can create, view, edit, and delete posts — mimicking the core CRUD functionalities of platforms like Quora.
 > Designed to practice server-side rendering, RESTful routing, and form handling with `method-override`.
 
+https://github.com/user-attachments/assets/14e373c8-3fe1-44b4-9a21-a25d51f34344
+
+
 #### 🚀 Features
 
 * Create new posts with username and content
