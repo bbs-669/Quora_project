@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Post</title>
+    <link rel="stylesheet" href="/style.css" >
+</head>
+<body>
+    <h1>Post</h1>
+    <p>id:<%= data.id %></p>
+    <div class="posts">
+        <h3 class="username" >@<%= data.user %></h3>
+        <p><%= data.post %></p>
+    </div>
+    <a href="/posts" ><button>GO BACK</button></a>
+</body>
+</html>
